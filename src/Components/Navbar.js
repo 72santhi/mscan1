@@ -8,7 +8,7 @@ const Navbar = () => {
     // Function to load Google Translate script
     const loadGoogleTranslate = () => {
         const script = document.createElement('script');
-        script.src = 'http://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate';
+        script.src = 'https://translate.google.com/translate_a/element.js?cb=loadGoogleTranslate';
         script.async = true;
         document.body.appendChild(script);
     };

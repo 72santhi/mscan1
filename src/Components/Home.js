@@ -146,7 +146,7 @@ const Home = () => {
 
       <div className='container-1'>
         <div className = "image-container">
-          <img src='/Assests/tulasi1.jpg' alt='tulasi'></img>
+          <img src='tulasi1.jpg' alt='tulasi'></img>
         </div>
         <div className="text-container">
           <h2>How accurate is your AI Prediction?</h2>
